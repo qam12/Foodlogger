@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979818483211",
+    "firebase_url": "https://food-logger-1e321.firebaseio.com",
+    "project_id": "food-logger-1e321",
+    "storage_bucket": "food-logger-1e321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979818483211:android:62d7550d06f640d0",
+        "android_client_info": {
+          "package_name": "com.example.umair.foodlogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979818483211-qjjcan4eveumbskdcvqu9hjumsgrtv43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umair.foodlogger",
+            "certificate_hash": "51fa68d4c636115134715d78302b067c77b02506"
+          }
+        },
+        {
+          "client_id": "979818483211-cap0bqib8kq9hq2i3c62po1uhfq233f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RSb7AU3yFQJqNt8oULjcnnfTwi5UizY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979818483211-cap0bqib8kq9hq2i3c62po1uhfq233f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

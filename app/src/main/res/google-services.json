@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026438039594",
+    "firebase_url": "https://food-parcel-system.firebaseio.com",
+    "project_id": "food-parcel-system",
+    "storage_bucket": "food-parcel-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026438039594:android:d07f2160b65f5397",
+        "android_client_info": {
+          "package_name": "com.example.umair.foodparcelsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026438039594-b4bn7janf5e739pp3er69qdvnl6peb6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umair.foodparcelsystem",
+            "certificate_hash": "51fa68d4c636115134715d78302b067c77b02506"
+          }
+        },
+        {
+          "client_id": "1026438039594-5sksk7jlhvthbfhvkppgplhjvsq511nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ycxQr1uj-zKVsN1to_zvlwIz8Wdu4Ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026438039594-5sksk7jlhvthbfhvkppgplhjvsq511nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
